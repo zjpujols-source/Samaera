@@ -1,0 +1,8 @@
+{
+  "name": "Samaera | Official Site",
+  "description": "Official artist website for Samaera featuring music releases, music videos, store, and contact information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
